@@ -13,5 +13,5 @@ format:
   pdf:
     toc: true
     include-in-header: "pre-tex/thai-preamble.tex"
-    keep-tex: true
+    keep-tex: false
     linkcolor: Maroon
