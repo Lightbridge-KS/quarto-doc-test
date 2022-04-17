@@ -1,0 +1,11 @@
+project:
+  title: "quarto-doc-test"
+  output-dir: "_output"
+
+
+toc: true
+number-sections: true
+
+format:
+  html: default
+  pdf: default
