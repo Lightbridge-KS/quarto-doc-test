@@ -1,6 +1,6 @@
 project:
   title: "quarto-doc-test"
-  output-dir: "_output"
+  output-dir: "docs"
 
 
 toc: true
