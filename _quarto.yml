@@ -1,6 +1,8 @@
 project:
   title: "quarto-doc-test"
   output-dir: "docs"
+  render:
+    - index.qmd
 
 
 toc: true
